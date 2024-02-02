@@ -1,2 +1,3 @@
 # BST-Python
-Creating a working binary search tree in python.
+Creating a binary search tree in Python.
+Using a previous C++ project for reference.
